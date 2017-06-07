@@ -1,6 +1,6 @@
 {
 .appVersion = "1029";
-copyright = "Copyright 2012 The Great Vibes Project Authors ()";
+copyright = "Copyright 2012 The Voces Project Authors (https://github.com/googlefonts/GreatVibesFont), with Reserved Font Name \"Great Vibes\"";
 customParameters = (
 {
 name = licenseURL;
